@@ -2,7 +2,7 @@
 
 <img src="data/ryo_fukui_scenery.jpg"></img>
 
-1. Ryo Fukui's original Seasons Album Cover
+1. Ryo Fukui's original Scenery Album Cover
 
 <br>
 
